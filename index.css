@@ -6,6 +6,18 @@ body {
   background-color: black !important;
 }
 
+.hero {
+  position: relative;
+}
+
+.hero-link {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 15rem;
+  width: 28%;
+}
+
 .card {
   background-color: rgb(31, 31, 34) !important;
 }
