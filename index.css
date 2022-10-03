@@ -1,0 +1,11 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: black !important;
+}
+
+.card {
+  background-color: rgb(31, 31, 34) !important;
+}
